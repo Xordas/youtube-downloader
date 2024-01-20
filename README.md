@@ -4,7 +4,7 @@ This script allows you to download YouTube videos at various resolutions and enc
 
 ## Prerequisites
 
-You need to have Python 3 and the following Python packages installed:
+You need to have the latest version of Python and the following Python packages installed:
 
 - `yt-dlp`
 - `inquirer`
