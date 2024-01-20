@@ -24,6 +24,7 @@ python yt.py
 ```
 
 The script will prompt you to select the type of encoding, enter the YouTube video URL, and select the desired resolution. It will also ask you to confirm that you have the necessary rights and permissions to download the content.
+
 This script has only been tested on systems with an Intel Arc A770 and a Nvidia Quadro P2000. If you're using a different GPU, your feedback would be greatly appreciated to help me improve the script. Please report any issues or bugs you encounter.
 
 ## Disclaimer
