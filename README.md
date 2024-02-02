@@ -18,7 +18,7 @@ pip install yt-dlp inquirer
 You also need to have ffmpeg and ffprobe installed on your system and added to path.
 
 ## Usage
-Run the script with Python:
+Run the script with Python (it will sometimes require admin): 
 ```bash
 python yt.py
 ```
